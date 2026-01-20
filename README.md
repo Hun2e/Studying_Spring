@@ -3,7 +3,7 @@
 > **Learning and practicing the fundamentals of Spring Framework & Spring Boot**
 
 Spring Framework와 Spring Boot의 핵심 개념을 학습하고,  
-실습 프로젝트를 통해 동작 원리와 구조를 이해하기 위한 학습 기록 공간입니다.
+실습 프로젝트를 통해 동작 원리와 구조를 이해하기 위한 학습 기록 공간
 
 ---
 
