@@ -1,42 +1,21 @@
-# 🌱 Spring Study Log
+# Studying_Spring
 
-> **Learning and practicing the fundamentals of Spring Framework & Spring Boot**
+> Spring Boot의 기본 구조를 강의 실습 코드로 익힌 학습 기록
 
-Spring Framework와 Spring Boot의 핵심 개념을 학습하고,  
-실습 프로젝트를 통해 동작 원리와 구조를 이해하기 위한 학습 기록 공간
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
----
+<sub>2026.01 ~ · 인프런 「스프링 입문」 실습</sub>
 
-## 📅 Study Period
-- **Start Date:** 2026.01.20
-- **Status:** In Progress
+## 구성
 
----
+| 폴더 | 내용 |
+|---|---|
+| [`hello-spring`](hello-spring) | Spring Boot 프로젝트 생성, 빌드, 실행 |
 
-## 🛠 Tech Stack
-- **Language:** Java
-- **Framework:** Spring, Spring Boot
-- **Build Tool:** Gradle
-- **IDE:** IntelliJ IDEA
-- **Version Control:** Git, GitHub
-
----
-
-## 📂 Project Structure
-
-```text
-Studying_Spring
-├─ hello-spring        # Spring Boot 기본 구조 및 실행
-└─ (추가 예정)
+```bash
+cd hello-spring && ./gradlew bootRun
 ```
 
----
+## 참고
 
-## 🎓 Credits & References
-This project was created as part of my learning journey using the following resources:
-
-* **Course:** [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://inf.run/XpHNn)
-* **Instructor:** [김영한 (Younghan Kim)](https://github.com/holyeye)
-* **Platform:** [Inflearn](https://www.inflearn.com/)
-
----
+- 강의: [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://inf.run/XpHNn) · 강사 [김영한](https://github.com/holyeye)
